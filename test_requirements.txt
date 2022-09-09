@@ -37,7 +37,7 @@ stringparser==0.5
 toml==0.10.2
 typed-ast==1.5.4
 typing-extensions==4.3.0
-urllib3==1.26.9
+urllib3==1.26.12
 wincertstore==0.2
 wrapt==1.14.1
 zipp==3.4.1
