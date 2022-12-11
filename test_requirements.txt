@@ -28,7 +28,7 @@ pytest-mock==3.8.2
 pytest-rerunfailures==10.0
 pytest-xdist==2.5.0
 PyVISA==1.11.3
-PyVISA-sim==0.4.0
+PyVISA-sim==0.5.1
 PyYAML==6.0
 requests==2.25.1
 six==1.16.0
