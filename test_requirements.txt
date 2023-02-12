@@ -30,7 +30,7 @@ pytest-xdist==2.5.0
 PyVISA==1.11.3
 PyVISA-sim==0.5.1
 PyYAML==6.0
-requests==2.25.1
+requests==2.28.2
 six==1.16.0
 sortedcontainers==2.4.0
 stringparser==0.5
